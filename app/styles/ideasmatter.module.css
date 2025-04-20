@@ -1,0 +1,18 @@
+.cards{
+	background-color: #ece9da;
+	width: 100%;
+	aspect-ratio: 1 / 1;
+	border-radius: 15px;
+}
+
+.iconImage{
+	background-color: #dbd9d2;
+}
+
+.megaCard{
+	background-color: #27261b;
+}
+
+.readBtn{
+	border-radius: 20px;
+}

@@ -1,0 +1,9 @@
+.cards{
+	background-color: #f6f4ee;
+	border-radius: 10px;
+}
+
+.icons{
+	padding: 0.5rem;
+	border: 1px solid rgba(219, 217, 210, 0.9);
+}
